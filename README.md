@@ -29,8 +29,14 @@ For Inference :
 For Inference of the model the code is provided only for Category 1 as it is same for all the other categories only need to change the saved model path and selection of the category from the test_df.
 
 Change here the model id for other Categories :
+
+
 <img width="848" alt="Screenshot 2024-11-20 at 8 43 20 PM" src="https://github.com/user-attachments/assets/5cdc9f74-02d6-40a6-a948-239734bc94b9">
+
+
 Change here the Category name for other Categories:
+
+
 <img width="618" alt="Screenshot 2024-11-20 at 8 43 29 PM" src="https://github.com/user-attachments/assets/12835611-4471-4d21-8dec-f6e2c2b5d7d6">
 
 The Saved Paths can be found in this drive link : https://drive.google.com/drive/folders/1ASStcQogXGdPPIStAhgQLgyZfS43oeLp?usp=share_link
